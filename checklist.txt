@@ -1,0 +1,9 @@
+[] Easy to maintain
+[] Reusable
+[] Decoupled from NewAD
+[] Keep Stateless
+[] No Re-deploys if something changes in NewAD
+[] Need to prepopulate values
+[] Need to provide options for select
+[] Need to keep rendering/validation logic inside Baldur
+[] Need to know if form has errors
